@@ -37,6 +37,17 @@ Xiaojun Ye, **Guanbao Liang**, Liangcheng Li, Chun Wang, Pengfei Ke, Rui Wang, B
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/arxiv2024_method.png' alt="paper2_method" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Unveiling the Impact of Multi-Modal Interactions on User Engagement: A
+Comprehensive Evaluation in AI-driven Conversations](https://arxiv.org/abs/2406.15000)
+
+Lichao Zhang, Jia Yu, Shuai Zhang, Long Li, Yangyang Zhong, **Guanbao Liang**, Yuming Yan, Qing Ma, Fangsheng Weng, Fayu Pan, Jing Li, Renjun Xu, Zhenzhong Lan
+
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2024.06* Outstanding Graduate of Zhejiang Province.
 - *2023.05* Meritorious Winner in Mathematical Contest in Modeling (MCM).
