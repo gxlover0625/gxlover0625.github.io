@@ -20,7 +20,7 @@ redirect_from:
 I am currently pursuing my master's degree at ZJU, with a keen interest in MLLM, RAG.
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 One paper is accepted by the IJCAI 2025.
+- *2025.04*: &nbsp;🎉🎉 One paper is accepted by the IJCAI 2025.
 
 # 📝 Publications 
 
