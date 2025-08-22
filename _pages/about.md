@@ -38,8 +38,8 @@ Xiaojun Ye, **Guanbao Liang**, Liangcheng Li, Chun Wang, Pengfei Ke, Rui Wang, B
 </div>
 
 # 🎖 Honors and Awards
-- *2024.06* `Outstanding Graduate` of Zhejiang Province.
-- *2023.05* `Meritorious Winner` in Mathematical Contest in Modeling (MCM).
+- *2024.06* Outstanding Graduate of Zhejiang Province.
+- *2023.05* Meritorious Winner in Mathematical Contest in Modeling (MCM).
 - *2021-2022* Zhejiang Provincial Government Scholarship.
 - *2020-2021* Zhejiang Provincial Government Scholarship.
 
