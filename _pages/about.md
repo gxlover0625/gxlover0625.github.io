@@ -34,6 +34,9 @@ Xiaojun Ye, *Guanbao Liang*, Liangcheng Li, Chun Wang, Pengfei Ke, Rui Wang, Bin
 
 [Code](https://github.com/eaglelab-zju/M4Bench) ![Star](https://img.shields.io/github/stars/eaglelab-zju/M4Bench.svg?style=social&label=Star)
 
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2024.06* `Outstanding Graduate` of Zhejiang University of Technology. 
 
