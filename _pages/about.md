@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing my master's degree at ZJU, with a keen interest in `MLLM`, `RAG`.
+I am currently pursuing my master's degree at ZJU, with a keen interest in MLLM, RAG.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -44,8 +44,9 @@ I am currently pursuing my master's degree at ZJU, with a keen interest in `MLLM
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09 - now*, Zhejiang University, School of Software Technology, Zhejiang Hangzhou, Master.
+- *2020.09 - 2024.06*, Zhejiang University of Technology, Jianxing Honors College, Zhejiang Hangzhou, Undergraduate.
 
 # 💻 Internships
 - *2024.07 - now*, Multi-Modal Large Language Model Research Intern, Alibaba Group, Hangzhou.
+- *2024.04 - 2024.06*, NLP Algorithm Engineer, West Lake Xinchen, Hangzhou.
