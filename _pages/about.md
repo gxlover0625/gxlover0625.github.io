@@ -30,7 +30,7 @@ I am currently pursuing my master's degree at ZJU, with a keen interest in MLLM,
 [M<sup>4</sup>Bench: A Benchmark of Multi-domain Multi-granularity Multi-image
 Understanding for Multi-modal Large Language Models](https://zhoushengisnoob.github.io/papers/IJCAI2025.pdf)
 
-Xiaojun Ye, *Guanbao Liang*, Liangcheng Li, Chun Wang, Pengfei Ke, Rui Wang, Bingxin Jia, Gang Huang, Qiao Sun, Sheng Zhou
+Xiaojun Ye, **Guanbao Liang**, Liangcheng Li, Chun Wang, Pengfei Ke, Rui Wang, Bingxin Jia, Gang Huang, Qiao Sun, Sheng Zhou
 
 [Code](https://github.com/eaglelab-zju/M4Bench) ![Star](https://img.shields.io/github/stars/eaglelab-zju/M4Bench.svg?style=social&label=Star)
 
