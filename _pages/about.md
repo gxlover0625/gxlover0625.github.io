@@ -24,7 +24,7 @@ I am currently pursuing my master's degree at ZJU, with a keen interest in MLLM,
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/ijcai2025_method.png' alt="ijcai2025_method" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [M<sup>4</sup>Bench: A Benchmark of Multi-domain Multi-granularity Multi-image
