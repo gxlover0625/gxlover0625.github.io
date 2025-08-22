@@ -38,7 +38,10 @@ Xiaojun Ye, **Guanbao Liang**, Liangcheng Li, Chun Wang, Pengfei Ke, Rui Wang, B
 </div>
 
 # 🎖 Honors and Awards
-- *2024.06* `Outstanding Graduate` of Zhejiang University of Technology. 
+- *2024.06* `Outstanding Graduate` of Zhejiang University of Technology.
+- *2023.05* `Meritorious Winner` in Mathematical Contest in Modeling (MCM).
+- *2021-2022* Zhejiang Provincial Government Scholarship.
+- *2020-2021* Zhejiang Provincial Government Scholarship.
 
 # 📖 Educations
 - *2024.09 - now*, Zhejiang University, School of Software Technology, Zhejiang Hangzhou, Master.
