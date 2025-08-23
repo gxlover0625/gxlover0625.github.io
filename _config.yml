@@ -8,8 +8,8 @@
 # Site Settings
 title                    : "Guanbao Liang"
 description              : |
-  MLLM, RAG  
-  [My Blog](https://lgb-blog.vercel.app/)
+  Research Interest: MLLM, RAG  
+  My Blog: [https://lgb-blog.vercel.app/](https://lgb-blog.vercel.app/)
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 

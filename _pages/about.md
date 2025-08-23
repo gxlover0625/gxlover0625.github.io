@@ -21,7 +21,7 @@ I am currently pursuing my master's degree at ZJU, with a keen interest in MLLM,
 
 **I am seeking internships related to LLM and MLLM during the summer of 2026, based in Hangzhou and Shanghai.**
 
-Welcome to my blog, https://lgb-blog.vercel.app/ , where I will share the latest RAG techniques and my research experiences.
+Welcome to my blog, [https://lgb-blog.vercel.app/](https://lgb-blog.vercel.app/), where I will share the latest RAG techniques and my research experiences.
 
 # 🔥 News
 - *2025.04*: &nbsp;🎉🎉 One paper is accepted by the IJCAI 2025.
