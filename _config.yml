@@ -9,7 +9,7 @@
 title                    : "Guanbao Liang"
 description              : |
   <span class="research-tag">MLLM</span> <span class="research-tag">RAG</span>  
-  [My Blog](https://lgb-blog.vercel.app/)
+  <a href="https://lgb-blog.vercel.app/" class="blog-link">✨ My Blog</a>
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
